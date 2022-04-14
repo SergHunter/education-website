@@ -104,7 +104,7 @@ var swiper = new Swiper(".logo-slider", {
   grabCursor: true,
   spaceBetween: 20,
     autoplay: {
-    delay: 5000,
+    delay: 4000,
     // disableOnInteraction: false,
   },
   breakpoints: {
