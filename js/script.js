@@ -103,6 +103,10 @@ var swiper = new Swiper(".logo-slider", {
   loop: true,
   grabCursor: true,
   spaceBetween: 20,
+    autoplay: {
+    delay: 5000,
+    // disableOnInteraction: false,
+  },
   breakpoints: {
     0: {
       slidesPerView: 1,
