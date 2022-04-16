@@ -277,7 +277,7 @@ html::-webkit-scrollbar-thumb {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 600px;
+  height: 645px;
   background-size: cover !important;
   background-position: center !important;
 }
@@ -1040,4 +1040,6 @@ html::-webkit-scrollbar-thumb {
   .heading {
     font-size: 30px;
   }
+  .home .slide{
+    height:580px;
 }
